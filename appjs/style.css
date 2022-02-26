@@ -1,0 +1,45 @@
+body {
+    font-family: monospace,cursive,sans-serif;
+}
+.app-title {
+
+    background-color: rgb(236, 232, 232);
+    background-image: url(img/cropped-Logo-VinoDivino-1024x687.png);
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: contain; /* Resize the background image to cover the entire container */
+
+}
+
+
+.app-topbar{
+
+    height: 90px;
+}
+
+
+.app-content {
+
+    text-align: center;
+    background-image: url(img/vinodivino%20background.jpg);
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover ; /* Resize the background image to cover the entire container */
+
+}
+
+
+.app-section{
+    
+    font-family: monospace,cursive,sans-serif;
+}
+
+
+.scroll-page .loading {
+    margin: 12px auto;
+    border: 8px solid #AAA;
+    height: 16px;
+    width: 16px;
+    background: #CCC;
+    border-radius: 16px;
+}
